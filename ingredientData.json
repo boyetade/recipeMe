@@ -1,0 +1,22 @@
+{
+    "data": {
+        "ingredientData": [
+            {
+                "name": "Apple",
+                "image": "https://lh6.googleusercontent.com/proxy/xOKd1Jo_lkNUco80UT5gHTa1-yOotTRTaySg-uH_MebpOzmlEh3vc9zqK5iOJKr8yzyzLNaK_Gi41RUADgbAKaUpYGz4PwUAQG8MhnHcoSM01DivjnWcYetxUFPVvqZyDxov0EraByYV5t4GgrL7-OVE"
+            },
+            {
+                "name": "Chicken",
+                "image": "https://static.vecteezy.com/system/resources/previews/030/672/401/large_2x/of-chicken-with-no-background-with-white-back-free-photo.jpg"
+            },
+            {
+                "name": "Broccoli",
+                "image": "https://t3.ftcdn.net/jpg/02/50/29/00/360_F_250290014_4snUMjCdfdy6Jeik0iftCRuNFUUb7rP1.jpg"
+            },
+            {
+                "name": "Eggs",
+                "image": "https://img.freepik.com/premium-photo/eggs-with-white-background-high-quality-ultra-hd_670382-89857.jpg"
+            }
+        ]
+    }
+}
