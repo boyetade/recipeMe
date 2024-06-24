@@ -6,6 +6,9 @@
   .grid-cols-auto-fit {
     grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
   }
+  .transition-bottom {
+    transition: bottom 0.5s ease;
+  }
 }
 
 .slick-slide > div {
