@@ -96,12 +96,6 @@ const RecipeCard = () => {
                     sx={{ borderColor: "transparent" }}
                   />
                 )}
-                <FavoriteBorderOutlined
-                  sx={{
-                    color: red[600],
-                    justifyContent: "end",
-                  }}
-                />
               </div>
               <p className="my-3 font-semibold ">
                 {recipe.recipe.label.replace("Recipe", " ")}
