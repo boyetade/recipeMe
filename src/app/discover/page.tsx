@@ -2,13 +2,8 @@
 
 import RecipeCard from "./Components/RecipeCard";
 import TitleHeader from "../../../Components/TitleHeader";
-import { useEffect, useState } from "react";
 
-export default function DiscoverPage({
-  searchParams,
-}: {
-  searchParams: string;
-}) {
+export default function DiscoverPage({ searchParams }: { searchParams: any }) {
   return (
     <>
       <TitleHeader />
